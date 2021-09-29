@@ -40,5 +40,5 @@ In my scholarship in SevenCrafts, i made multiple project practiciting Front end
 
 6-mammri
 
-<img src="https://user-images.githubusercontent.com/69484554/135266656-5bf4d6e6-b0ca-4f89-92a0-82995e94f767.gifg" width="425"/> 
+<img src="https://user-images.githubusercontent.com/69484554/135266656-5bf4d6e6-b0ca-4f89-92a0-82995e94f767.gif" width="425"/> 
 
